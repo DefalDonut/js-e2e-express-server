@@ -45,5 +45,5 @@ steps:
   inputs:
     azureSubscription: 'Azure Connection'
     appType: webApp
-    appName: 'tsaily-exercise-13'
+    appName: 'tsaily-exercise-12'
     package: '$(System.ArtifactsDirectory)/drop/js-e2e-express-server.zip'
